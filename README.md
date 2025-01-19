@@ -1,8 +1,8 @@
 
 
 In this project, I learned how to use it properly:
--Grid
--First extensive experience of working in a team and proper distribution of work over time
+- Grid
+- First extensive experience of working in a team and proper distribution of work over time
 
 
 To download Game: 
